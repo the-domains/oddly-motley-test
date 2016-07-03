@@ -1,0 +1,14 @@
+layout_spectrum: 0.5334613220766187
+typography_spectrum: 0.1633610890712589
+color:
+  brandStrength: 0.5383125634398311
+  lightness: 0.5860203900374472
+  saturation: 0.9767989388201386
+  rhythmicContrast: 0.7098283092491329
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Oddly Motley Test
